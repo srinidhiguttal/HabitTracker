@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- HabitLoop Logo implementation: Infinity loop with Arrow and Checkmark -->
+
+    <!-- Teal Arrow Part (Left) -->
+    <path
+        android:fillColor="#32C1D4"
+        android:pathData="M24.5,15 L7,32 L19,32 L19,45 C19,65 32,80 48,80 C54,80 60,78 65,74 L72,81 C65,88 57,92 48,92 C25,92 7,72 7,45 L7,32 L0,32 L24.5,15 Z" />
+
+    <!-- Blue Loop Part (Right) -->
+    <path
+        android:fillColor="#2C88D3"
+        android:pathData="M48,32 C41,32 35,35 30,39 L23,32 C30,25 38,22 48,22 C72,22 84,39 84,59 C84,79 72,96 48,96 L48,84 C62,84 72,74 72,59 C72,46 62,32 48,32 Z" />
+
+    <!-- Green Success Circle with Checkmark (Top Right) -->
+    <group
+        android:translateX="62"
+        android:translateY="10">
+        <path
+            android:fillColor="#44C47F"
+            android:pathData="M18,0 A18,18 0 1,1 18,36 A18,18 0 1,1 18,0 Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M9,18 L15,24 L27,10 L30,13 L15,30 L6,21 Z" />
+    </group>
+
+</vector>
