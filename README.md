@@ -45,7 +45,22 @@ A modern, full-featured Android application designed to help users build and mai
 
 ## 📸 Screenshots
 
-*(Add your screenshots here later)*
+<img width="720" height="1650" alt="image" src="https://github.com/user-attachments/assets/990a8097-09e1-43a9-95a7-7e41f556b448" />
+<img width="720" height="1650" alt="image" src="https://github.com/user-attachments/assets/38b28f2d-d7f9-44bc-8d82-bcb00f40894a" />
+<img width="720" height="1650" alt="image" src="https://github.com/user-attachments/assets/c2d10c09-b145-4585-8a51-250d4d7f69a5" />
+<img width="720" height="1650" alt="image" src="https://github.com/user-attachments/assets/379a6e74-def9-4b54-8a9b-8b43e9c15513" />
+<img width="720" height="1650" alt="image" src="https://github.com/user-attachments/assets/d133442c-f480-4699-aaea-a1fdcf231a18" />
+<img width="720" height="1650" alt="image" src="https://github.com/user-attachments/assets/4b9ff376-ff5f-4ea2-b845-7b5c351aac70" />
+<img width="720" height="1650" alt="image" src="https://github.com/user-attachments/assets/981860c5-dd33-4574-b829-6e5841deb2d3" />
+
+
+
+
+
+
+
+
+
 
 ---
 Built with ❤️ by Srinidhi Guttal
